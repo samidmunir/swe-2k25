@@ -2,6 +2,7 @@ Sami Munir | sami.munir2001@gmail.com | Rutgers University Computer Science
 # SWE-2k25
 ## DSALGO
 ## Leetcode Mastery
-## Learning
+## Learning & Tutorials
+### breezy-blogz
 ## Projects
-### SlateUI
+### slate-ui --> NextJS, TypeScript, Supabase
