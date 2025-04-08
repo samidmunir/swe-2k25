@@ -17,6 +17,11 @@ const nextConfig: NextConfig = {
         hostname: 'lh3.googleusercontent.com',
         protocol: 'https',
         port: '',
+      },
+      {
+        hostname: 'o.quizlet.com',
+        protocol: 'https',
+        port: '',
       }
     ]
   }

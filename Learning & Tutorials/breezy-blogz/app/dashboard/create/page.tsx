@@ -1,11 +1,9 @@
-'use client';
-
 import { Card, CardContent, CardDescription, CardHeader, CardTitle } from '@/components/ui/card';
 import { Label } from '@radix-ui/react-label';
 import { Input } from '@/components/ui/input';
 import { Textarea } from '@/components/ui/textarea';
-import { Button } from '@/components/ui/button';
 import { handleSubmit } from '@/app/actions';
+import { SubmitButton } from '@/components/general/SubmitButton';
 
 export default function CreateBlogRoute() {
     return (
@@ -29,7 +27,7 @@ export default function CreateBlogRoute() {
                             <Label>Image URL</Label>
                             <Input name='imageURL' required type='url' placeholder='Image URL' />
                         </div>
-                        <Button>Create Post</Button>
+                        <SubmitButton />
                     </form>
                 </CardContent>
             </Card>

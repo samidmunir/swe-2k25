@@ -3,6 +3,6 @@ Sami Munir | sami.munir2001@gmail.com | Rutgers University Computer Science
 ## DSALGO
 ## Leetcode Mastery
 ## Learning & Tutorials
-### breezy-blogz
+### breezy-blogz --> *NextJS, TypeScript, TailwindCSS, ShadCN, Prisma, Neon*
 ## Projects
 ### slate-ui --> NextJS, TypeScript, Supabase
